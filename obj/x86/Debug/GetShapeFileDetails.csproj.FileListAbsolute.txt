@@ -1,0 +1,8 @@
+E:\Training\GetShapeFileDetails\bin\Debug\GetShapeFileDetails.exe
+E:\Training\GetShapeFileDetails\bin\Debug\GetShapeFileDetails.pdb
+E:\Training\GetShapeFileDetails\obj\x86\Debug\GetShapeFileDetails.Properties.Resources.resources
+E:\Training\GetShapeFileDetails\obj\x86\Debug\GetShapeFileDetails.csproj.GenerateResource.Cache
+E:\Training\GetShapeFileDetails\obj\x86\Debug\GetShapeFileDetails.exe
+E:\Training\GetShapeFileDetails\obj\x86\Debug\GetShapeFileDetails.pdb
+E:\Training\GetShapeFileDetails\obj\x86\Debug\GetShapeFileDetails.Form1.resources
+E:\Training\GetShapeFileDetails\obj\x86\Debug\GetShapeFileDetails.csprojResolveAssemblyReference.cache
